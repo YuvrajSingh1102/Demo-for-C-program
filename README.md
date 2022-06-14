@@ -7,4 +7,4 @@
   return 0;
   }
 
-This file was modified locally.
+This line was modified manually during conflicts resolution.
