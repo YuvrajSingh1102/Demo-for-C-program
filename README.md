@@ -11,3 +11,4 @@ This line was modified manually during conflicts resolution.
 
 New Line was added locally.
 Another commit was added locally.
+One more line was added succesfully.
